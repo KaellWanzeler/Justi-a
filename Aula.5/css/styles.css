@@ -4,6 +4,16 @@
     height: 450px;
 }
 
+.container-fluid h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar-brand {
+    display: flex;
+    justify-content: center;
+}
+
 .corpinho {
     display: flex;
     justify-content: center;
